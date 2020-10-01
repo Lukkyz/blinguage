@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blinguage/static/css/main.5f361e03.chunk.css",
+    "main.js": "/blinguage/static/js/main.28c6e1f1.chunk.js",
+    "main.js.map": "/blinguage/static/js/main.28c6e1f1.chunk.js.map",
+    "runtime-main.js": "/blinguage/static/js/runtime-main.c8a68c4b.js",
+    "runtime-main.js.map": "/blinguage/static/js/runtime-main.c8a68c4b.js.map",
+    "static/js/2.cdff10f4.chunk.js": "/blinguage/static/js/2.cdff10f4.chunk.js",
+    "static/js/2.cdff10f4.chunk.js.map": "/blinguage/static/js/2.cdff10f4.chunk.js.map",
+    "index.html": "/blinguage/index.html",
+    "precache-manifest.37082227b1972f5c0d1af8fbe415d0e4.js": "/blinguage/precache-manifest.37082227b1972f5c0d1af8fbe415d0e4.js",
+    "service-worker.js": "/blinguage/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/blinguage/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cdff10f4.chunk.js.LICENSE.txt": "/blinguage/static/js/2.cdff10f4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/blinguage/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a68c4b.js",
+    "static/js/2.cdff10f4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.28c6e1f1.chunk.js"
+  ]
+}
