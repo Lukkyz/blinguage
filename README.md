@@ -1,7 +1,9 @@
-# Challenge Intégration  
-Crée une page d'application pour apprendre le japonais avec une maquette
+# Challenge Intégration
+
+Crée une page d'application pour apprendre le japonais avec une maquette <br />
+Lien de la page : https://lukkyz.github.io/blinguage/ <br />
 Lien du challenge : https://www.youtube.com/watch?v=c-osQ7rhhgw&t=395s
- 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
