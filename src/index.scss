@@ -41,13 +41,58 @@ li {
 	justify-content: space-between;
 	&-logo {
 		margin-top: 1em;
-		width: 10%;
-		height: 10%
+		width: 10em;
+		height: 3em
 	}
 	&-link {
 		display: flex;
 		& li {
-			margin: 1em
+			margin: 1em;
 		}
+	}
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	margin-left: 4.5em;
+	margin-top: 3em;
+	font-size: 1.4em;
+	&-title, &-paraph {
+		text-align: left
+	}
+	&-paraph {
+		width: 20em;
+	}
+	&-btn {
+		margin-top: 1em;;
+		background-color: #372e7f;
+		color: #e6dcbb;
+		border: none;
+		padding: 1em;
+		font-size: 1rem;
+	}
+}
+
+.details {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 10em 20em 0em 5.5em;
+	& div {
+		width: 30rem;
+	}
+}
+
+.detail {
+	font-size: 1.1em;
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+	& p {
+		width: 20em;
+	}
+	&-img {
+		width: 15%
 	}
 }
